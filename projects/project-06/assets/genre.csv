@@ -92,13 +92,13 @@ genre
 "['Comedy', 'Musical', 'Romance']"
 "['Animation', 'Adventure', 'Comedy']"
 "['Comedy', 'Crime']"
-"['Adventure', 'Comedy', 'Fantasy']"
 "['Adventure', 'Drama', 'War']"
+"['Adventure', 'Comedy', 'Fantasy']"
 "['Comedy', 'Drama', 'Family']"
 "['Crime', 'Drama', 'Mystery']"
 ['Western']
-"['Crime', 'Drama']"
 "['Comedy', 'Drama', 'Romance']"
+"['Crime', 'Drama']"
 "['Crime', 'Drama']"
 "['Action', 'Adventure', 'Fantasy']"
 "['Drama', 'Mystery']"
@@ -119,8 +119,8 @@ genre
 "['Biography', 'Drama', 'History']"
 "['Animation', 'Adventure', 'Comedy']"
 "['Action', 'Thriller']"
-"['Adventure', 'Drama', 'History']"
 "['Drama', 'Mystery', 'Thriller']"
+"['Adventure', 'Drama', 'History']"
 "['Action', 'Crime', 'Drama']"
 ['Drama']
 "['Drama', 'Fantasy', 'War']"
@@ -156,10 +156,10 @@ genre
 ['Drama']
 "['Drama', 'Film-Noir', 'Mystery']"
 "['Crime', 'Drama', 'Thriller']"
-"['Drama', 'History', 'Romance']"
 "['Crime', 'Film-Noir', 'Thriller']"
-"['Action', 'Adventure', 'Sci-Fi']"
+"['Drama', 'History', 'Romance']"
 ['Drama']
+"['Action', 'Adventure', 'Sci-Fi']"
 "['Animation', 'Adventure', 'Family']"
 "['Animation', 'Adventure', 'Comedy']"
 "['Drama', 'Mystery', 'Thriller']"
@@ -172,8 +172,8 @@ genre
 ['Action']
 "['Comedy', 'Romance']"
 ['Comedy']
-['Drama']
 "['Action', 'Biography', 'Drama']"
+['Drama']
 ['Drama']
 "['Drama', 'History', 'War']"
 "['Drama', 'War']"
@@ -208,8 +208,8 @@ genre
 "['Biography', 'Drama', 'History']"
 "['Action', 'Mystery', 'Thriller']"
 "['Comedy', 'Drama', 'Sci-Fi']"
-"['Drama', 'Horror', 'Mystery']"
 "['Crime', 'Drama', 'Mystery']"
+"['Drama', 'Horror', 'Mystery']"
 "['Drama', 'Sci-Fi', 'Thriller']"
 "['Drama', 'Sport']"
 "['Adventure', 'Drama', 'Thriller']"
