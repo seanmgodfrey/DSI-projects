@@ -1,0 +1,2788 @@
+name,cuisine,address,distinction,author,blurb,price,add_info
+"
+	Salinas
+",Cuisine Spanish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Colonie
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sottocasa
+",Cuisine Pizza,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hibino
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Ki Sushi
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	French Louie
+",Cuisine Mediterranean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Chef's Table at Brooklyn Fare
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mile End
+",Cuisine Deli,na,na,MICHELIN guide inspectors,na,na,na
+"
+	La Vara
+",Cuisine Spanish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sociale
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Ganso Ramen
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Brucie
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Jack the Horse
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Rucola
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Clover Club
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Strong Place
+",Cuisine Gastropub,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Jolie Cantina
+",Cuisine Fusion,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Pok Pok Ny
+",Cuisine Thai,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Battersby
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Gran Eléctrica
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Take Root
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Enoteca on Court
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Alma
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Atrium
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The River Café
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Vinegar Hill House
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nightingale 9
+",Cuisine Vietnamese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dover
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lulu & Po
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Prospect
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	No. 7
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Colonia Verde
+",Cuisine Latin American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Runner & Stone
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The General Greene
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Frankies 457 Spuntino
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Prime Meats
+",Cuisine European,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Pickle Shack
+",Cuisine Gastropub,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Palo Santo
+",Cuisine Latin American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bricolage
+",Cuisine Vietnamese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Buttermilk Channel
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Morgan's BBQ
+",Cuisine Barbecue,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The Runner
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Franny's
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Aita
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	James
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	SoCo
+",Cuisine Southern,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kao Soy
+",Cuisine Thai,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Elberta
+",Cuisine Southern,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Juventino
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The Finch
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Al Seabu
+",Cuisine Malaysian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cooklyn
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Fort Defiance
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Umi NOM
+",Cuisine Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sushi Katsuei
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Speedy Romeo
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The Good Fork
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hometown Bar-B-Que
+",Cuisine Barbecue,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Marlow & Sons
+",Cuisine Gastropub,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Black Swan
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Meadowsweet
+",Cuisine Mediterranean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Talde
+",Cuisine Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Do or Dine
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bar Corvo
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	1 or 8
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Café Steinhof
+",Cuisine Austrian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Fonda
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	La Superior
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Thistle Hill Tavern
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Java
+",Cuisine Indonesian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Traif
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Xixa
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Aurora
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Salt + Charcoal
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mayfield
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Semilla
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Baci & Abbracci
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Shalom Japan
+",Cuisine Fusion,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tabaré
+",Cuisine Latin American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Samurai Mama
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Chavela's
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Rye
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Zizi Limona
+",Cuisine Mediterranean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	M Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bozu
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Gladys
+",Cuisine Caribbean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Krupa Grocery
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Roebling Tea Room
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	St. Anselm
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Delaware and Hudson
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Egg
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Ramen Yebisu
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Zenkichi
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	El Almacen
+",Cuisine Argentinian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Eugene & Co.
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Forcella
+",Cuisine Pizza,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Miranda
+",Cuisine Fusion,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Okonomi
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The Saint Austere
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Allswell
+",Cuisine Gastropub,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Brooklyn Star
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Reynard
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Maria's Bistro Mexicano
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mesa Coyoacán
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Saraghina
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Luksus at Tørst
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	El Born
+",Cuisine Spanish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	River Styx
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Krolewskie Jadlo
+",Cuisine Polish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Paulie Gee's
+",Cuisine Pizza,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Greenpoint Fish & Lobster Co.
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Roberta's
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Le Fond
+",Cuisine French,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Blanca
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Karczma
+",Cuisine Polish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Selamat Pagi
+",Cuisine Indonesian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lucky Luna
+",Cuisine Fusion,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Arrogant Swine
+",Cuisine Barbecue,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Fitzcarraldo
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	L'Antagoniste
+",Cuisine French,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Anella
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dear Bushwick
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Falansai
+",Cuisine Vietnamese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	El Mio Cid
+",Cuisine Spanish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mominette
+",Cuisine French,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Northeast Kingdom
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Faro
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lucky Eight
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mimi's Hummus
+",Cuisine Mediterranean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Pacificana
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lea
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	The Farm on Adderley
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	East Harbor Seafood Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bamboo Garden
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Park Asia
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Petit Oven
+",Cuisine French,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tanoreen
+",Cuisine Middle Eastern,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Taci's Beyti
+",Cuisine Turkish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mill Basin Kosher Delicatessen
+",Cuisine Deli,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mtskheta Café
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nargis Cafe
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mexicosina
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Ceetay
+",Cuisine Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	El Nuevo Bohío
+",Cuisine Puerto Rican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Beso
+",Cuisine Spanish,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Enoteca Maria
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	San Rasa
+",Cuisine Sri Lankan,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dosa Garden
+",Cuisine Indian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Vida
+",Cuisine American,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lakruwana
+",Cuisine Sri Lankan,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Maizal
+",Cuisine Mexican,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bayou
+",Cuisine Cajun,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bin 5
+",Cuisine Contemporary,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Bocelli
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Trattoria Romana da Vittorio
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mario's
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Fushimi
+",Cuisine Fusion,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Giuliana's
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cafe Luna
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hahm Ji Bach
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Kang Ho Dong Baekjeong
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Biáng!
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Dumpling Galaxy
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan Kitchen of Grand Sichuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Joe's Shanghai
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Hunan House
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Lu Xiang Yuan
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Imperial Palace
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Sik Gaek
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tong Sam Gyup Goo Yi
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Happy Family Hotpot
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Iki Japanese
+",Cuisine Japanese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Nan Xiang Xiao Long Bao
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Asian Jewels
+",Cuisine Seafood,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Crazy Crab 888
+",Cuisine Burmese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Main Street Imperial Taiwanese Gourmet
+",Cuisine Chinese,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Mythos
+",Cuisine Greek,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Tang
+",Cuisine Korean,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Urubamba
+",Cuisine Peruvian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Parkside
+",Cuisine Italian,na,na,MICHELIN guide inspectors,na,na,na
+"
+	Cheburechnaya
+",Cuisine Central Asian,na,na,MICHELIN guide inspectors,na,na,na
