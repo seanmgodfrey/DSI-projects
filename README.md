@@ -1,1 +1,3 @@
-# DSI-projects c
+# Welcome!
+
+Here are some projects I am working on.  
