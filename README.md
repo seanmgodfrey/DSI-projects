@@ -1,3 +1,3 @@
 # Welcome!
 
-This repository contains projects completed over the course of General Assembly's Data Science Immersive course from June to August, 2016.  
+This repository contains projects completed during General Assembly's Data Science Immersive from June to August, 2016.  
